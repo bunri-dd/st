@@ -1,0 +1,12 @@
+st.c.rej
+st.o
+st.c.orig
+st.h.orig
+config.h
+config.def.h.rej
+config.def.h.orig
+st-*.diff
+st
+st.o
+x.o
+x.c.orig
